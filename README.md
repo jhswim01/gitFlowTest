@@ -1,6 +1,6 @@
 # GIT FLOW TEST
 
-git activity new bsfasranchdevelope created
+git activity new branch crasdgd3e4geated
 
 asdfas
 asfasd
